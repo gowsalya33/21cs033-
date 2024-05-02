@@ -1,0 +1,25 @@
+.home{
+    border:2px sloid black;
+  text-align: center; 
+  padding:10px;
+  background-color:cadetblue;
+}
+.container{
+   height: 600px;
+   width: 1500px;
+   background-color:lightblue;
+   margin:10px auto;
+   position:relative;
+}
+.pro
+{
+   background-color:white;
+   box-shadow: 5px 10px  white;
+   height: 500px;
+   width:300px ;
+   float:left;
+   margin:10px
+} 
+
+
+
